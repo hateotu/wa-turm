@@ -3,4 +3,4 @@ Workadventure map for hacker space/menschen-zusammenführungspunkt turm
 
 -----
 ### current state
-![alt: current state](tower.png)
+![alt: current state](Tower.png)
