@@ -121,7 +121,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "images":"floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -144,7 +144,7 @@
         {
          "columns":32,
          "firstgid":65,
-         "images":"chaos_zone_shared.png",
+         "image":"chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -167,7 +167,7 @@
         {
          "columns":32,
          "firstgid":2113,
-         "images":"haus_a.png",
+         "image":"haus_a.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -190,7 +190,7 @@
         {
          "columns":16,
          "firstgid":4161,
-         "images":"doors.png",
+         "image":"doors.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -203,7 +203,7 @@
         {
          "columns":16,
          "firstgid":5185,
-         "images":"tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -469,7 +469,7 @@
         {
          "columns":16,
          "firstgid":5441,
-         "images":"storage.png",
+         "image":"storage.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -501,7 +501,7 @@
         {
          "columns":7,
          "firstgid":6465,
-         "images":"minideko.png",
+         "image":"minideko.png",
          "imageheight":416,
          "imagewidth":224,
          "margin":0,
