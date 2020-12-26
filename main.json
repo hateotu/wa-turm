@@ -38,7 +38,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/chaosz0ne\/shared\/main\/maps\/main.json#start"
+                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/hateotu\/wa-space\/main\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
