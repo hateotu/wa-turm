@@ -38,7 +38,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/hateotu\/wa-space\/main\/main.json"
+                 "value":"{<lobby>/maps/erfas-south.json#start_hateotu}"
                 }],
          "type":"tilelayer",
          "visible":true,
