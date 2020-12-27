@@ -38,7 +38,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>/maps/erfas-south.json#start_hateotu}"
+                 "value":"{<lobby>\/maps\/erfas-south.json#start_hateotu}"
                 }],
          "type":"tilelayer",
          "visible":true,
